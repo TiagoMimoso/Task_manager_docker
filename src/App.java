@@ -3,3 +3,5 @@ public class App {
         System.out.println("Hello, World!");
     }
 }
+
+// Creation of a simple Java just to confirm it does compile and run correctly.
